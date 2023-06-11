@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>org.reldb.rel.dbrowser</name>
+  <comment>Rel UI frontend. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>org.reldb.rel.shared</project>
+    <project>org.reldb.rel.server</project>
+    <project>org.reldb.rel.serverv0000</project>
+    <project>org.reldb.rel.client</project>
+    <project>org.reldb.rel.swt_win</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
